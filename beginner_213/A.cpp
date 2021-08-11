@@ -32,5 +32,5 @@ int main()
         out += C[j] * k;
         k *= 2;
     }
-    cout << out << endl;
+    cout << out;
 }
