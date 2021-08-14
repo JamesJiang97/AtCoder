@@ -1,3 +1,11 @@
+/*
+ * @Author: your name
+ * @Date: 2021-08-08 20:24:51
+ * @LastEditTime: 2021-08-14 20:01:49
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: /AtCoder/beginner_213/A-Bitwise_Exclusive_Or.cpp
+ */
 #include <cstdio>
 #include <iostream>
 
@@ -6,7 +14,7 @@ using namespace std;
 int main()
 {
     int a, b, A[7], B[7], C[7];
-    cin >> a >> b;
+    a = 12, b = 6;
     int i = 0;
     while (a || b)
     {
