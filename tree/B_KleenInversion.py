@@ -20,5 +20,3 @@ for i in range(n) :
     ans%=MOD
 
 print(ans)
-
-
