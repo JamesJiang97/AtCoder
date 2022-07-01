@@ -11,7 +11,7 @@ P = sorted(P, key = lambda x : x[0])
 
 x = s.count('1')
 
-ans = 0
+ans = x
 
 for i in range(n) :
     if P[i][1] == '1' : x -= 1
