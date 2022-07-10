@@ -15,7 +15,6 @@ def solution(A, K) :
     for i in ANS[len(ANS)-1] :
         ans.append(i[len(i)-1]-i[0])
     return(min(ans))
-    print(min(ans))
 
 A = [5,3,6,1,3]
 K = 2
